@@ -1,6 +1,6 @@
 # MaullInsta
 
-<h3 align="left">COMING SOON 👽</h3>
+<h3 align="left">Script Closed</h3>
 
 <h3 align="left">CARA MENJALANKAN SCRIPT:</h3>
 
