@@ -1,4 +1,4 @@
-# XyouriInsta
+# MaullInsta
 
 <h3 align="left">COMING SOON 👽</h3>
 
@@ -10,8 +10,8 @@ download aplikasi termux di chrome atau <a href="https://f-droid.org/en/packages
     $ pkg update && pkg upgrade
     $ pkg install python git
     $ pkg install play-audio
-    $ rm -rf XyouriInsta
-    $ git clone https://github.com/Clay-XD/XyouriInsta
+    $ rm -rf MaullInsta
+    $ git clone https://github.com/Maulana-XD/MaullInsta
 
 - Oke sekarang script sudah berhasil di ```install```
 
@@ -20,7 +20,7 @@ download aplikasi termux di chrome atau <a href="https://f-droid.org/en/packages
 sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
 
 
-    $ cd $HOME/XyouriInsta
+    $ cd $HOME/MaullInsta
     $ git pull
     $ python run.py
 
